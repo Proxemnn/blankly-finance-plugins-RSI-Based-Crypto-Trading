@@ -1,0 +1,4 @@
+D:\GithubNew\4\CoinSwap\CoinSwap\CoinSwap-Telegram-Bot\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\4\CoinSwap\CoinSwap\CoinSwap-Telegram-Bot\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+D:\GithubNew\16\FlashWallet\4\Trust\TrustWallet\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\16\FlashWallet\4\Trust\TrustWallet\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
