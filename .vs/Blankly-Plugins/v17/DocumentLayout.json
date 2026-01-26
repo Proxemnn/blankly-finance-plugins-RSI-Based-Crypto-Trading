@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\17\\blankly\\blankly-plug\\1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|CryptoExchange.Net\\Form2\\Form2.csproj|d:\\githubnew\\17\\blankly\\blankly-plug\\1\\cryptoexchange.net\\form2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|CryptoExchange.Net\\Form2\\Form2.csproj|solutionrelative:cryptoexchange.net\\form2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3762140C-7FF9-46E5-8EC3-BFB3FC7ADB9B}|CryptoExchange.Net\\CryptoExchange.csproj|d:\\githubnew\\17\\blankly\\blankly-plug\\1\\cryptoexchange.net\\sockets\\updatesubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3762140C-7FF9-46E5-8EC3-BFB3FC7ADB9B}|CryptoExchange.Net\\CryptoExchange.csproj|solutionrelative:cryptoexchange.net\\sockets\\updatesubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3762140C-7FF9-46E5-8EC3-BFB3FC7ADB9B}|CryptoExchange.Net\\CryptoExchange.csproj|d:\\githubnew\\17\\blankly\\blankly-plug\\1\\cryptoexchange.net\\exchangehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3762140C-7FF9-46E5-8EC3-BFB3FC7ADB9B}|CryptoExchange.Net\\CryptoExchange.csproj|solutionrelative:cryptoexchange.net\\exchangehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3762140C-7FF9-46E5-8EC3-BFB3FC7ADB9B}|CryptoExchange.Net\\CryptoExchange.csproj|d:\\githubnew\\17\\blankly\\blankly-plug\\1\\cryptoexchange.net\\sockets\\messageevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3762140C-7FF9-46E5-8EC3-BFB3FC7ADB9B}|CryptoExchange.Net\\CryptoExchange.csproj|solutionrelative:cryptoexchange.net\\sockets\\messageevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\17\\blankly\\blankly-plug\\1\\CryptoExchange.Net\\Form2\\Form2.cs",
+              "RelativeDocumentMoniker": "CryptoExchange.Net\\Form2\\Form2.cs",
+              "ToolTip": "D:\\GithubNew\\17\\blankly\\blankly-plug\\1\\CryptoExchange.Net\\Form2\\Form2.cs [Design]",
+              "RelativeToolTip": "CryptoExchange.Net\\Form2\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:49:32.411Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateSubscription.cs",
+              "DocumentMoniker": "D:\\GithubNew\\17\\blankly\\blankly-plug\\1\\CryptoExchange.Net\\Sockets\\UpdateSubscription.cs",
+              "RelativeDocumentMoniker": "CryptoExchange.Net\\Sockets\\UpdateSubscription.cs",
+              "ToolTip": "D:\\GithubNew\\17\\blankly\\blankly-plug\\1\\CryptoExchange.Net\\Sockets\\UpdateSubscription.cs",
+              "RelativeToolTip": "CryptoExchange.Net\\Sockets\\UpdateSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:49:31.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExchangeHelpers.cs",
+              "DocumentMoniker": "D:\\GithubNew\\17\\blankly\\blankly-plug\\1\\CryptoExchange.Net\\ExchangeHelpers.cs",
+              "RelativeDocumentMoniker": "CryptoExchange.Net\\ExchangeHelpers.cs",
+              "ToolTip": "D:\\GithubNew\\17\\blankly\\blankly-plug\\1\\CryptoExchange.Net\\ExchangeHelpers.cs",
+              "RelativeToolTip": "CryptoExchange.Net\\ExchangeHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:49:30.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageEvent.cs",
+              "DocumentMoniker": "D:\\GithubNew\\17\\blankly\\blankly-plug\\1\\CryptoExchange.Net\\Sockets\\MessageEvent.cs",
+              "RelativeDocumentMoniker": "CryptoExchange.Net\\Sockets\\MessageEvent.cs",
+              "ToolTip": "D:\\GithubNew\\17\\blankly\\blankly-plug\\1\\CryptoExchange.Net\\Sockets\\MessageEvent.cs",
+              "RelativeToolTip": "CryptoExchange.Net\\Sockets\\MessageEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:49:30.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
