@@ -1,0 +1,2 @@
+D:\GithubNew\17\blankly\blankly-plug\1\CryptoExchange.Net\Form2\obj\Debug\Form2.csproj.AssemblyReference.cache
+D:\GithubNew\17\blankly\blankly-plug\1\CryptoExchange.Net\Form2\obj\Debug\Form2.csproj.CoreCompileInputs.cache
